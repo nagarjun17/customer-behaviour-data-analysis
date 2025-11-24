@@ -104,6 +104,8 @@ RFM Segmentation Visuals
 
 Region/Time-Based Behaviour Patterns
 
+![image alt](https://github.com/nagarjun17/customer-behaviour-data-analysis/blob/12b624b5cd7b49b97b61db941b95907672c06106/customer_behavior_dashboard.jpg)
+
 📈 Key Insights (Replace with your findings)
 
 Identified top segments contributing most to revenue
